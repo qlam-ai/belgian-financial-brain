@@ -1,0 +1,12 @@
+Yahoo ID of Stock: MSFT
+last traded price: 427.375
+currency: USD
+stock value change since market open: -4.279998779296875
+stock value change since market last close: -0.7749999999999773
+stock exchange on which stock is traded: NMS
+volume: 8081700
+turnover: 3453916537.5
+market Cap: 3177293807616
+number of shares outstanding: 7434440192
+company information in json format: [{'maxAge': 1, 'name': 'Mr. Satya  Nadella', 'age': 56, 'title': 'Chairman & CEO', 'yearBorn': 1967, 'fiscalYear': 2023, 'totalPay': 9276400, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bradford L. Smith LCA', 'age': 64, 'title': 'President & Vice Chairman', 'yearBorn': 1959, 'fiscalYear': 2023, 'totalPay': 3591277, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Amy E. Hood', 'age': 51, 'title': 'Executive VP & CFO', 'yearBorn': 1972, 'fiscalYear': 2023, 'totalPay': 3452196, 'exercisedValue': 0, 'unexercisedValue': 0}]
+historical data over 5 days: [{"Open":418.4899902344,"High":430.5799865723,"Low":418.0400085449,"Close":427.5100097656,"Volume":25482200,"Dividends":0.0,"Stock Splits":0.0},{"Open":430.8599853516,"High":431.0799865723,"Low":422.5299987793,"Close":424.6000061035,"Volume":19654400,"Dividends":0.0,"Stock Splits":0.0},{"Open":425.3299865723,"High":425.9800109863,"Low":422.3999938965,"Close":424.7300109863,"Volume":13581600,"Dividends":0.0,"Stock Splits":0.0},{"Open":426.7600097656,"High":432.5199890137,"Low":426.5700073242,"Close":428.1499938965,"Volume":16888400,"Dividends":0.0,"Stock Splits":0.0},{"Open":431.6549987793,"High":431.9400024414,"Low":427.0104980469,"Close":427.383605957,"Volume":8080879,"Dividends":0.0,"Stock Splits":0.0}]

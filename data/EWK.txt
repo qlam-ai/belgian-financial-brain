@@ -1,0 +1,36 @@
+Yahoo ID of ETF: EWK
+description of the ETF: The fund generally will invest at least 80% of its assets in the component securities of its underlying index and in investments that have economic characteristics that are substantially identical to the component securities of its underlying index. The index is designed to measure the performance of the large-, mid- and small-capitalization segments of the equity market in Belgium. The fund is non-diversified.
+ETF Fund Overview: {'categoryName': 'Miscellaneous Region', 'family': 'iShares', 'legalType': 'Exchange Traded Fund'}
+ETF Fund Operations:                                    EWK Category Average
+Attributes                                             
+Annual Report Expense Ratio      0.005              0.0
+Annual Holdings Turnover         0.120             <NA>
+Total Net Assets             17577.820         17577.82
+ETF Asset Classes: {'cashPosition': 0.0146, 'stockPosition': 0.9854, 'bondPosition': 0.0, 'preferredPosition': 0.0, 'convertiblePosition': 0.0, 'otherPosition': 0.0}
+ETF Top Holdings:                                  Name  Holding Percent
+Symbol                                                
+ABI.BR     Anheuser-Busch InBev SA/NV         0.230052
+ARGX.BR                     argenx SE         0.133439
+UCB.BR                         UCB SA         0.083937
+KBC.BR                  KBC Groupe NV         0.043593
+AGS.BR                   Ageas SA/ NV         0.042624
+GBLB.BR   Groupe Bruxelles Lambert SA         0.037674
+SYENS.BR                   Syensqo SA         0.033730
+LOTB.BR             Lotus Bakeries NV         0.028515
+DIE.BR                D'Ieteren Group         0.026386
+ACKB.BR     Ackermans & Van Haaren NV         0.025837
+ETF Equity Holdings:                             EWK Category Average
+Average                                         
+Price/Earnings          0.05419             <NA>
+Price/Book              0.65941             <NA>
+Price/Sales             0.60082             <NA>
+Price/Cashflow          0.12037             <NA>
+Median Market Cap          <NA>             <NA>
+3 Year Earnings Growth     <NA>             <NA>
+ETF Bond Holdings:                  EWK Category Average
+Average                              
+Duration        <NA>             <NA>
+Maturity        <NA>             <NA>
+Credit Quality  <NA>             <NA>
+ETF Bond Ratings: {'us_government': 0.0}
+ETF Sector weightings: {'realestate': 0.1062, 'consumer_cyclical': 0.026800001, 'basic_materials': 0.058000002, 'consumer_defensive': 0.2842, 'technology': 0.0177, 'communication_services': 0.014199999, 'financial_services': 0.16280001, 'utilities': 0.0197, 'industrials': 0.070700005, 'energy': 0.0, 'healthcare': 0.23979999}
