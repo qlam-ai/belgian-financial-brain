@@ -1,0 +1,12 @@
+Yahoo ID of Stock: PROX.BR
+last traded price: 6.739999771118164
+currency: EUR
+stock value change since market open: -0.04500007629394531
+stock value change since market last close: 0.039999771118163885
+stock exchange on which stock is traded: BRU
+volume: 457056
+turnover: 3080557.3353881836
+market Cap: 2174485760
+number of shares outstanding: 322624000
+company information in json format: [{'maxAge': 1, 'name': 'Mr. Guillaume Antoine Boutin', 'age': 49, 'title': 'CEO, MD & Director', 'yearBorn': 1974, 'fiscalYear': 2023, 'totalPay': 1062152, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mark James Reid', 'age': 51, 'title': 'Finance Lead', 'yearBorn': 1972, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Nancy  Goossens', 'title': 'Director of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+historical data over 5 days: [{"Open":6.3299999237,"High":6.375,"Low":6.2950000763,"Close":6.3350000381,"Volume":399333,"Dividends":0.0,"Stock Splits":0.0},{"Open":6.3000001907,"High":6.3699998856,"Low":6.2600002289,"Close":6.2800002098,"Volume":378265,"Dividends":0.0,"Stock Splits":0.0},{"Open":6.3000001907,"High":6.4200000763,"Low":6.3000001907,"Close":6.3499999046,"Volume":403393,"Dividends":0.0,"Stock Splits":0.0},{"Open":6.5399999619,"High":6.8000001907,"Low":6.4899997711,"Close":6.6999998093,"Volume":792525,"Dividends":0.0,"Stock Splits":0.0},{"Open":6.7849998474,"High":6.8299999237,"Low":6.6950001717,"Close":6.7399997711,"Volume":457056,"Dividends":0.0,"Stock Splits":0.0}]

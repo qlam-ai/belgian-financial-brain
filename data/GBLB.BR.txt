@@ -1,0 +1,12 @@
+Yahoo ID of Stock: GBLB.BR
+last traded price: 68.25
+currency: EUR
+stock value change since market open: 0.15000152587890625
+stock value change since market last close: 0.3499999999999943
+stock exchange on which stock is traded: BRU
+volume: 63867
+turnover: 4358922.75
+market Cap: 8749172736
+number of shares outstanding: 126700000
+company information in json format: [{'maxAge': 1, 'name': 'Mr. Ian  Gallienne', 'age': 52, 'title': 'CEO, MD & Director', 'yearBorn': 1971, 'fiscalYear': 2019, 'totalPay': 1892904, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Xavier  Likin CPA', 'age': 55, 'title': 'Chief Financial Officer', 'yearBorn': 1968, 'fiscalYear': 2019, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Alison C. Donohoe', 'title': 'Investor Relations Officer', 'fiscalYear': 2019, 'exercisedValue': 0, 'unexercisedValue': 0}]
+historical data over 5 days: [{"Open":69.3000030518,"High":69.4000015259,"Low":68.9000015259,"Close":69.0500030518,"Volume":97249,"Dividends":0.0,"Stock Splits":0.0},{"Open":68.8499984741,"High":69.3499984741,"Low":68.6500015259,"Close":68.6999969482,"Volume":61950,"Dividends":0.0,"Stock Splits":0.0},{"Open":68.5999984741,"High":68.8499984741,"Low":68.25,"Close":68.25,"Volume":79328,"Dividends":0.0,"Stock Splits":0.0},{"Open":68.0999984741,"High":68.1999969482,"Low":67.6999969482,"Close":67.9000015259,"Volume":65644,"Dividends":0.0,"Stock Splits":0.0},{"Open":68.0999984741,"High":68.4000015259,"Low":67.8000030518,"Close":68.25,"Volume":63867,"Dividends":0.0,"Stock Splits":0.0}]

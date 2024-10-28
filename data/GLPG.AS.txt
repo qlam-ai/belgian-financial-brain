@@ -1,0 +1,12 @@
+Yahoo ID of Stock: GLPG.AS
+last traded price: 26.68000030517578
+currency: EUR
+stock value change since market open: -0.4400005340576172
+stock value change since market last close: -0.5999996948242199
+stock exchange on which stock is traded: AMS
+volume: 66636
+turnover: 1777848.5003356934
+market Cap: 1777467008
+number of shares outstanding: 65897100
+company information in json format: [{'maxAge': 1, 'name': 'Dr. Paulus A. Stoffels M.D., Ph.D.', 'age': 61, 'title': 'CEO, Chairman, Interim Head of R&D', 'yearBorn': 1962, 'fiscalYear': 2023, 'totalPay': 1256250, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Thad  Huston', 'age': 52, 'title': 'Executive VP, CFO & COO', 'yearBorn': 1971, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Sofie  Van Gijsel', 'title': 'Head of Investor Relations', 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+historical data over 5 days: [{"Open":28.1200008392,"High":28.4400005341,"Low":27.5799999237,"Close":28.0200004578,"Volume":74788,"Dividends":0.0,"Stock Splits":0.0},{"Open":27.9200000763,"High":28.3199996948,"Low":27.5599994659,"Close":27.5799999237,"Volume":57419,"Dividends":0.0,"Stock Splits":0.0},{"Open":27.7000007629,"High":27.7199993134,"Low":27.1800003052,"Close":27.1800003052,"Volume":57434,"Dividends":0.0,"Stock Splits":0.0},{"Open":27.1800003052,"High":27.4799995422,"Low":26.8199996948,"Close":27.2800006866,"Volume":86895,"Dividends":0.0,"Stock Splits":0.0},{"Open":27.1200008392,"High":27.2000007629,"Low":26.6200008392,"Close":26.6800003052,"Volume":66636,"Dividends":0.0,"Stock Splits":0.0}]

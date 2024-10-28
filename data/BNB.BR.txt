@@ -1,0 +1,12 @@
+Yahoo ID of Stock: BNB.BR
+last traded price: 419.0
+currency: EUR
+stock value change since market open: 0.0
+stock value change since market last close: -1.0
+stock exchange on which stock is traded: BRU
+volume: 53
+turnover: 22207.0
+market Cap: 167998880
+number of shares outstanding: 400000
+company information in json format: [{'maxAge': 1, 'name': 'Mr. Pierre  Wunsch', 'age': 55, 'title': 'Governor', 'yearBorn': 1967, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. L.  Delaisse', 'title': 'Head of IT Infrastructure & Operations', 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'F.  Biquet', 'title': 'Head of Accounting', 'exercisedValue': 0, 'unexercisedValue': 0}]
+historical data over 5 days: [{"Open":421.0,"High":427.0,"Low":421.0,"Close":424.0,"Volume":32,"Dividends":0.0,"Stock Splits":0.0},{"Open":421.0,"High":422.0,"Low":418.0,"Close":421.0,"Volume":223,"Dividends":0.0,"Stock Splits":0.0},{"Open":419.0,"High":424.0,"Low":419.0,"Close":419.0,"Volume":22,"Dividends":0.0,"Stock Splits":0.0},{"Open":420.0,"High":422.0,"Low":418.0,"Close":420.0,"Volume":24,"Dividends":0.0,"Stock Splits":0.0},{"Open":419.0,"High":424.0,"Low":419.0,"Close":419.0,"Volume":53,"Dividends":0.0,"Stock Splits":0.0}]

@@ -1,0 +1,12 @@
+Yahoo ID of Stock: MELE.BR
+last traded price: 70.05000305175781
+currency: EUR
+stock value change since market open: -0.29999542236328125
+stock value change since market last close: -0.1999969482421875
+stock exchange on which stock is traded: BRU
+volume: 62126
+turnover: 4351926.489593506
+market Cap: 2830020096
+number of shares outstanding: 40400000
+company information in json format: [{'maxAge': 1, 'name': 'Mr. Marc  Biron', 'age': 53, 'title': 'MD, CEO & Director', 'yearBorn': 1970, 'fiscalYear': 2023, 'totalPay': 477084, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Karen  Van Griensven', 'age': 53, 'title': 'Chief Financial Officer', 'yearBorn': 1970, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Veerle  Lozie', 'age': 49, 'title': 'Chief Operations & Information Officer', 'yearBorn': 1974, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+historical data over 5 days: [{"Open":69.8499984741,"High":70.4499969482,"Low":69.6999969482,"Close":70.1999969482,"Volume":16000,"Dividends":0.0,"Stock Splits":0.0},{"Open":70.1500015259,"High":71.9499969482,"Low":70.0999984741,"Close":70.0999984741,"Volume":29365,"Dividends":0.0,"Stock Splits":0.0},{"Open":70.0500030518,"High":71.0,"Low":69.9499969482,"Close":70.5,"Volume":23543,"Dividends":0.0,"Stock Splits":0.0},{"Open":70.5,"High":70.5999984741,"Low":69.8499984741,"Close":70.25,"Volume":53695,"Dividends":0.0,"Stock Splits":0.0},{"Open":70.3499984741,"High":71.0,"Low":68.75,"Close":70.0500030518,"Volume":62126,"Dividends":0.0,"Stock Splits":0.0}]

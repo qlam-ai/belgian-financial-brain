@@ -1,0 +1,12 @@
+Yahoo ID of Stock: WDP.BR
+last traded price: 22.280000686645508
+currency: EUR
+stock value change since market open: -0.07999992370605469
+stock value change since market last close: -0.03999931335449247
+stock exchange on which stock is traded: BRU
+volume: 261516
+turnover: 5826576.659568787
+market Cap: 5024920064
+number of shares outstanding: 225535008
+company information in json format: [{'maxAge': 1, 'name': 'Mr. Joost  Uwents', 'age': 54, 'title': 'MD, Co-CEO & Executive Director', 'yearBorn': 1969, 'fiscalYear': 2023, 'totalPay': 1304208, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tony  De Pauw', 'age': 69, 'title': 'MD, Co-CEO & Executive Director', 'yearBorn': 1954, 'fiscalYear': 2023, 'totalPay': 656563, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Mickaël  Van Den Hauwe', 'age': 42, 'title': 'CFO & Risk Manager', 'yearBorn': 1981, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+historical data over 5 days: [{"Open":21.4799995422,"High":22.0400009155,"Low":21.4799995422,"Close":21.7000007629,"Volume":316089,"Dividends":0.0,"Stock Splits":0.0},{"Open":21.4799995422,"High":22.2399997711,"Low":21.3999996185,"Close":22.2000007629,"Volume":402901,"Dividends":0.0,"Stock Splits":0.0},{"Open":22.3600006104,"High":22.4799995422,"Low":22.2199993134,"Close":22.3600006104,"Volume":416752,"Dividends":0.0,"Stock Splits":0.0},{"Open":22.3400001526,"High":22.3999996185,"Low":22.1399993896,"Close":22.3199996948,"Volume":229782,"Dividends":0.0,"Stock Splits":0.0},{"Open":22.3600006104,"High":22.4599990845,"Low":22.2800006866,"Close":22.2800006866,"Volume":261516,"Dividends":0.0,"Stock Splits":0.0}]

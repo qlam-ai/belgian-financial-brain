@@ -1,0 +1,12 @@
+Yahoo ID of Stock: UPG.BR
+last traded price: 4.019999980926514
+currency: EUR
+stock value change since market open: 0.039999961853027344
+stock value change since market last close: 0.03999998092651369
+stock exchange on which stock is traded: BRU
+volume: 3189
+turnover: 12819.779939174652
+market Cap: 150769296
+number of shares outstanding: 37131700
+company information in json format: [{'maxAge': 1, 'name': 'Mr. Hans A. Leybaert', 'age': 53, 'title': 'Founder, CEO & Executive Director', 'yearBorn': 1970, 'fiscalYear': 2023, 'totalPay': 384000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Tom S. Van Acker', 'age': 50, 'title': 'COO & GM', 'yearBorn': 1973, 'fiscalYear': 2023, 'totalPay': 283295, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hans  Jacobs', 'age': 53, 'title': 'Chief of Staff -Bridge to Business', 'yearBorn': 1970, 'fiscalYear': 2023, 'totalPay': 219230, 'exercisedValue': 0, 'unexercisedValue': 0}]
+historical data over 5 days: [{"Open":3.9500000477,"High":3.9500000477,"Low":3.6500000954,"Close":3.7999999523,"Volume":22375,"Dividends":0.0,"Stock Splits":0.0},{"Open":3.9400000572,"High":4.0799999237,"Low":3.9000000954,"Close":4.0199999809,"Volume":41887,"Dividends":0.0,"Stock Splits":0.0},{"Open":4.0500001907,"High":4.0500001907,"Low":4.0199999809,"Close":4.0500001907,"Volume":16325,"Dividends":0.0,"Stock Splits":0.0},{"Open":4.0500001907,"High":4.0500001907,"Low":3.9800000191,"Close":3.9800000191,"Volume":10034,"Dividends":0.0,"Stock Splits":0.0},{"Open":3.9800000191,"High":4.0199999809,"Low":3.9500000477,"Close":4.0199999809,"Volume":3189,"Dividends":0.0,"Stock Splits":0.0}]

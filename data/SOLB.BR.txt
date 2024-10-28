@@ -1,0 +1,12 @@
+Yahoo ID of Stock: SOLB.BR
+last traded price: 38.25
+currency: EUR
+stock value change since market open: -0.3100013732910156
+stock value change since market last close: -0.3100000000000023
+stock exchange on which stock is traded: BRU
+volume: 156263
+turnover: 5977059.75
+market Cap: 4041571584
+number of shares outstanding: 105008000
+company information in json format: [{'maxAge': 1, 'name': 'Mr. Philippe  Kehren', 'age': 52, 'title': 'CEO, Chairman of Executive Committee & Director', 'yearBorn': 1971, 'fiscalYear': 2023, 'totalPay': 1236284, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Alexandre  Blum', 'age': 50, 'title': 'Chief Financial and Strategy Officer & Member of Executive Committee', 'yearBorn': 1973, 'fiscalYear': 2023, 'totalPay': 727913, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Lanny  Duvall', 'age': 55, 'title': 'COO & Member of Executive Committee', 'yearBorn': 1968, 'fiscalYear': 2023, 'totalPay': 422004, 'exercisedValue': 0, 'unexercisedValue': 0}]
+historical data over 5 days: [{"Open":39.1199989319,"High":39.3699989319,"Low":38.6399993896,"Close":38.9000015259,"Volume":219984,"Dividends":0.0,"Stock Splits":0.0},{"Open":38.7000007629,"High":38.8600006104,"Low":37.7900009155,"Close":38.7999992371,"Volume":212351,"Dividends":0.0,"Stock Splits":0.0},{"Open":38.7000007629,"High":38.9399986267,"Low":38.3600006104,"Close":38.6800003052,"Volume":118090,"Dividends":0.0,"Stock Splits":0.0},{"Open":38.6300010681,"High":38.8499984741,"Low":38.0499992371,"Close":38.5600013733,"Volume":164039,"Dividends":0.0,"Stock Splits":0.0},{"Open":38.5600013733,"High":38.8199996948,"Low":37.8400001526,"Close":38.25,"Volume":156263,"Dividends":0.0,"Stock Splits":0.0}]

@@ -1,0 +1,12 @@
+Yahoo ID of Stock: APAM.AS
+last traded price: 25.639999389648438
+currency: EUR
+stock value change since market open: 0.45999908447265625
+stock value change since market last close: 0.5999993896484384
+stock exchange on which stock is traded: AMS
+volume: 147548
+turnover: 3783130.6299438477
+market Cap: 1954811648
+number of shares outstanding: 72249200
+company information in json format: [{'maxAge': 1, 'name': 'Mr. Timoteo  Di Maulo', 'age': 64, 'title': 'Chief Executive Officer', 'yearBorn': 1959, 'fiscalYear': 2023, 'totalPay': 2244000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sudhakar  Sivaji', 'age': 43, 'title': 'Chief Financial Officer', 'yearBorn': 1980, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Bert  Lyssens', 'age': 53, 'title': 'Chief Human Resources Officer & Head of Communications', 'yearBorn': 1970, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+historical data over 5 days: [{"Open":25.5799999237,"High":25.7000007629,"Low":25.3600006104,"Close":25.6599998474,"Volume":129974,"Dividends":0.0,"Stock Splits":0.0},{"Open":25.6200008392,"High":25.6200008392,"Low":25.0200004578,"Close":25.0599994659,"Volume":134846,"Dividends":0.0,"Stock Splits":0.0},{"Open":25.0599994659,"High":25.5599994659,"Low":25.0400009155,"Close":25.0799999237,"Volume":97425,"Dividends":0.0,"Stock Splits":0.0},{"Open":25.1599998474,"High":25.1800003052,"Low":24.8600006104,"Close":25.0400009155,"Volume":212424,"Dividends":0.0,"Stock Splits":0.0},{"Open":25.1800003052,"High":25.7199993134,"Low":25.1800003052,"Close":25.6399993896,"Volume":147548,"Dividends":0.0,"Stock Splits":0.0}]

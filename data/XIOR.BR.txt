@@ -1,0 +1,12 @@
+Yahoo ID of Stock: XIOR.BR
+last traded price: 32.0
+currency: EUR
+stock value change since market open: -0.20000076293945312
+stock value change since market last close: 0.05000000000000071
+stock exchange on which stock is traded: BRU
+volume: 24374
+turnover: 779968.0
+market Cap: 1363497600
+number of shares outstanding: 42344300
+company information in json format: [{'maxAge': 1, 'name': 'Mr. Christian  Teunissen', 'age': 50, 'title': 'MD, CEO & Executive Director', 'yearBorn': 1973, 'fiscalYear': 2023, 'totalPay': 670000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Frederik  Snauwaert', 'age': 43, 'title': 'CFO & Executive Director', 'yearBorn': 1980, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Kristina  Olsen', 'age': 56, 'title': 'Chief Operating Officer', 'yearBorn': 1967, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+historical data over 5 days: [{"Open":32.0,"High":32.1500015259,"Low":31.5,"Close":31.9500007629,"Volume":43853,"Dividends":0.0,"Stock Splits":0.0},{"Open":32.0499992371,"High":32.3499984741,"Low":31.8999996185,"Close":32.1500015259,"Volume":28644,"Dividends":0.0,"Stock Splits":0.0},{"Open":32.25,"High":32.5,"Low":32.1500015259,"Close":32.25,"Volume":16054,"Dividends":0.0,"Stock Splits":0.0},{"Open":32.5499992371,"High":32.6500015259,"Low":31.8999996185,"Close":31.9500007629,"Volume":32120,"Dividends":0.0,"Stock Splits":0.0},{"Open":32.2000007629,"High":32.3499984741,"Low":31.8500003815,"Close":32.0,"Volume":24374,"Dividends":0.0,"Stock Splits":0.0}]

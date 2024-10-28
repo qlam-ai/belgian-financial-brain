@@ -1,0 +1,12 @@
+Yahoo ID of Stock: ELI.BR
+last traded price: 93.25
+currency: EUR
+stock value change since market open: 1.0500030517578125
+stock value change since market last close: 1.25
+stock exchange on which stock is traded: BRU
+volume: 41899
+turnover: 3907081.75
+market Cap: 6853837824
+number of shares outstanding: 73499600
+company information in json format: [{'maxAge': 1, 'name': 'Ms. Catherine  Vandenborre', 'age': 52, 'title': 'Interim CEO & Member of Executive Management Board', 'yearBorn': 1971, 'fiscalYear': 2023, 'totalPay': 862895, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Marco  Nix', 'title': 'Interim Chief Financial Officer & Member of Executive Management Board', 'fiscalYear': 2023, 'totalPay': 20000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Peter  Michiels', 'title': 'Chief HR & Internal Communication Officer, Chief Alignment Officer and Member of Management Board', 'fiscalYear': 2023, 'totalPay': 604334, 'exercisedValue': 0, 'unexercisedValue': 0}]
+historical data over 5 days: [{"Open":94.75,"High":94.75,"Low":91.4499969482,"Close":91.9000015259,"Volume":34654,"Dividends":0.0,"Stock Splits":0.0},{"Open":91.9499969482,"High":93.1999969482,"Low":91.8000030518,"Close":91.8000030518,"Volume":30462,"Dividends":0.0,"Stock Splits":0.0},{"Open":91.9499969482,"High":93.0999984741,"Low":91.8000030518,"Close":92.1999969482,"Volume":58353,"Dividends":0.0,"Stock Splits":0.0},{"Open":91.5500030518,"High":92.5,"Low":91.4499969482,"Close":92.0,"Volume":31531,"Dividends":0.0,"Stock Splits":0.0},{"Open":92.1999969482,"High":93.25,"Low":91.5,"Close":93.25,"Volume":41899,"Dividends":0.0,"Stock Splits":0.0}]

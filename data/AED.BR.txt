@@ -1,0 +1,12 @@
+Yahoo ID of Stock: AED.BR
+last traded price: 60.599998474121094
+currency: EUR
+stock value change since market open: 0.14999771118164062
+stock value change since market last close: 0.04999847412109659
+stock exchange on which stock is traded: BRU
+volume: 33112
+turnover: 2006587.1494750977
+market Cap: 2891050240
+number of shares outstanding: 47550100
+company information in json format: [{'maxAge': 1, 'name': 'Mr. Stefaan  Gielens', 'age': 58, 'title': 'MD, CEO, Executive Director & Executive Manager', 'yearBorn': 1965, 'fiscalYear': 2023, 'totalPay': 1002541, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Ingrid  Daerden', 'age': 49, 'title': 'Executive Director, CFO & Executive Manager', 'yearBorn': 1974, 'fiscalYear': 2023, 'totalPay': 680191, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Raoul  Thomassen', 'age': 49, 'title': 'COO & Executive Director', 'yearBorn': 1974, 'fiscalYear': 2023, 'totalPay': 509164, 'exercisedValue': 0, 'unexercisedValue': 0}]
+historical data over 5 days: [{"Open":61.0,"High":61.5999984741,"Low":60.4000015259,"Close":60.9500007629,"Volume":62766,"Dividends":0.0,"Stock Splits":0.0},{"Open":60.7999992371,"High":61.25,"Low":60.6500015259,"Close":60.75,"Volume":41209,"Dividends":0.0,"Stock Splits":0.0},{"Open":61.0,"High":61.0999984741,"Low":60.5,"Close":60.7000007629,"Volume":37679,"Dividends":0.0,"Stock Splits":0.0},{"Open":60.5999984741,"High":60.75,"Low":60.2000007629,"Close":60.5499992371,"Volume":45032,"Dividends":0.0,"Stock Splits":0.0},{"Open":60.4500007629,"High":60.75,"Low":60.2000007629,"Close":60.5999984741,"Volume":33112,"Dividends":0.0,"Stock Splits":0.0}]

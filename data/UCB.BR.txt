@@ -1,0 +1,12 @@
+Yahoo ID of Stock: UCB.BR
+last traded price: 178.0
+currency: EUR
+stock value change since market open: -0.25
+stock value change since market last close: -0.75
+stock exchange on which stock is traded: BRU
+volume: 115187
+turnover: 20503286.0
+market Cap: 33770160128
+number of shares outstanding: 189720000
+company information in json format: [{'maxAge': 1, 'name': 'Mr. Jean-Christophe  Tellier', 'age': 64, 'title': 'CEO & Executive Director', 'yearBorn': 1959, 'fiscalYear': 2023, 'totalPay': 4099149, 'exercisedValue': 0, 'unexercisedValue': 1781620}, {'maxAge': 1, 'name': 'Ms. Sandrine  Dufour CFA', 'age': 57, 'title': 'Executive VP, CFO & Chief Corporate Development', 'yearBorn': 1966, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. Kirsten  Lund-Jurgensen Ph.D.', 'age': 63, 'title': 'Executive Vice President of Supply & Technology Solutions', 'yearBorn': 1960, 'fiscalYear': 2023, 'exercisedValue': 0, 'unexercisedValue': 0}]
+historical data over 5 days: [{"Open":173.0500030518,"High":173.4499969482,"Low":169.9499969482,"Close":171.0,"Volume":206743,"Dividends":0.0,"Stock Splits":0.0},{"Open":171.1000061035,"High":173.8500061035,"Low":171.0500030518,"Close":173.75,"Volume":172763,"Dividends":0.0,"Stock Splits":0.0},{"Open":174.1999969482,"High":177.6499938965,"Low":173.75,"Close":176.6999969482,"Volume":206479,"Dividends":0.0,"Stock Splits":0.0},{"Open":175.6999969482,"High":180.5500030518,"Low":175.6999969482,"Close":178.75,"Volume":190999,"Dividends":0.0,"Stock Splits":0.0},{"Open":178.25,"High":179.5500030518,"Low":177.1999969482,"Close":178.0,"Volume":115187,"Dividends":0.0,"Stock Splits":0.0}]

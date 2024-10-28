@@ -134,3 +134,46 @@ def extract_data_etfs(etf_id):
     with open(filename, "w") as file:
         for key, value in variables.items():
             file.write(f"{key}: {value}\n")
+
+
+def extract_bel20_stocks():
+    bel20_list = [
+        "ABI.BR",
+        "AED.BR",
+        "AGS.BR",
+        "APAM.AS",
+        "ARGX.BR",
+        "COFB.BR",
+        "ELI.BR",
+        "GLPG.AS",
+        "GBLB.BR",
+        "KBC.BR",
+        "MELE.BR",
+        "PROX.BR",
+        "SOF.BR",
+        "SOLB.BR",
+        "BNB.BR",
+        "UCB.BR",
+        "UMI.BR",
+        "UPG.BR",
+        "WDP.BR",
+        "XIOR.BR",
+    ]
+    for stock_id in bel20_list:
+        extract_data_stocks(stock_id)
+
+
+def extract_bel20_etf():
+    bel20_list = ["EWK"]
+    for stock_id in bel20_list:
+        extract_data_etfs(stock_id)
+
+
+def main():
+    extract_bel20_stocks()
+    extract_bel20_etf()
+
+
+# Ensures that main() is only called if this script is executed directly
+if __name__ == "__main__":
+    main()

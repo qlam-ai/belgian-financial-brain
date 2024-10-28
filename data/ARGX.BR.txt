@@ -1,0 +1,12 @@
+Yahoo ID of Stock: ARGX.BR
+last traded price: 514.4000244140625
+currency: EUR
+stock value change since market open: -5.0
+stock value change since market last close: -6.5999755859375
+stock exchange on which stock is traded: BRU
+volume: 42164
+turnover: 21689162.62939453
+market Cap: 30853662720
+number of shares outstanding: 59796300
+company information in json format: [{'maxAge': 1, 'name': 'Mr. Timothy  Van Hauwermeiren EMBA, M.Sc.', 'age': 51, 'title': 'CEO & Executive Director', 'yearBorn': 1972, 'fiscalYear': 2023, 'totalPay': 1149722, 'exercisedValue': 0, 'unexercisedValue': 36782720}, {'maxAge': 1, 'name': 'Mr. Karl  Gubitz', 'age': 53, 'title': 'Chief Financial Officer', 'yearBorn': 1970, 'fiscalYear': 2023, 'totalPay': 754456, 'exercisedValue': 0, 'unexercisedValue': 2098118}, {'maxAge': 1, 'name': 'Ms. Karen  Massey', 'age': 44, 'title': 'Chief Operating Officer', 'yearBorn': 1979, 'fiscalYear': 2023, 'totalPay': 1268171, 'exercisedValue': 0, 'unexercisedValue': 0}]
+historical data over 5 days: [{"Open":515.0,"High":520.5999755859,"Low":511.6000061035,"Close":520.5999755859,"Volume":28416,"Dividends":0.0,"Stock Splits":0.0},{"Open":523.0,"High":530.799987793,"Low":521.5999755859,"Close":522.5999755859,"Volume":39373,"Dividends":0.0,"Stock Splits":0.0},{"Open":515.5999755859,"High":520.799987793,"Low":511.0,"Close":513.5999755859,"Volume":39104,"Dividends":0.0,"Stock Splits":0.0},{"Open":513.799987793,"High":524.5999755859,"Low":511.3999938965,"Close":521.0,"Volume":41349,"Dividends":0.0,"Stock Splits":0.0},{"Open":519.4000244141,"High":519.4000244141,"Low":513.0,"Close":514.4000244141,"Volume":42164,"Dividends":0.0,"Stock Splits":0.0}]

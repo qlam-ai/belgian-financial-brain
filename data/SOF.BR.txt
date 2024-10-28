@@ -1,0 +1,12 @@
+Yahoo ID of Stock: SOF.BR
+last traded price: 231.60000610351562
+currency: EUR
+stock value change since market open: 1.8000030517578125
+stock value change since market last close: 1.8000061035156136
+stock exchange on which stock is traded: BRU
+volume: 14669
+turnover: 3397340.4895324707
+market Cap: 7727033344
+number of shares outstanding: 33133000
+company information in json format: [{'maxAge': 1, 'name': 'Mr. Harold Y. H. Boel', 'age': 59, 'title': 'CEO & Director', 'yearBorn': 1964, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Xavier  Coirbay', 'age': 58, 'title': 'Managing Director', 'yearBorn': 1965, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Victor  Casier', 'age': 49, 'title': 'Managing Director of Brussels', 'yearBorn': 1974, 'exercisedValue': 0, 'unexercisedValue': 0}]
+historical data over 5 days: [{"Open":234.6000061035,"High":235.6000061035,"Low":231.8000030518,"Close":233.0,"Volume":14245,"Dividends":0.0,"Stock Splits":0.0},{"Open":232.0,"High":233.0,"Low":231.1999969482,"Close":231.3999938965,"Volume":10174,"Dividends":0.0,"Stock Splits":0.0},{"Open":230.3999938965,"High":232.0,"Low":229.6000061035,"Close":230.8000030518,"Volume":14185,"Dividends":0.0,"Stock Splits":0.0},{"Open":231.0,"High":231.6000061035,"Low":229.1999969482,"Close":229.8000030518,"Volume":11403,"Dividends":0.0,"Stock Splits":0.0},{"Open":229.8000030518,"High":231.6000061035,"Low":229.3999938965,"Close":231.6000061035,"Volume":14669,"Dividends":0.0,"Stock Splits":0.0}]

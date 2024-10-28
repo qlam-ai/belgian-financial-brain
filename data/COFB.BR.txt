@@ -1,0 +1,12 @@
+Yahoo ID of Stock: COFB.BR
+last traded price: 61.20000076293945
+currency: EUR
+stock value change since market open: 0.5
+stock value change since market last close: 0.20000076293945312
+stock exchange on which stock is traded: BRU
+volume: 38107
+turnover: 2332148.4290733337
+market Cap: 2339920896
+number of shares outstanding: 36743200
+company information in json format: [{'maxAge': 1, 'name': 'Mr. Jean-Pierre  Hanin', 'age': 57, 'title': 'Interim COO, MD, CEO & Director', 'yearBorn': 1966, 'fiscalYear': 2023, 'totalPay': 1037714, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Jean  Kotarakos', 'age': 50, 'title': 'CFO & Executive Director', 'yearBorn': 1973, 'fiscalYear': 2023, 'totalPay': 624030, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Sebastien  Berden', 'title': 'Chief Operating Officer', 'fiscalYear': 2023, 'totalPay': 570670, 'exercisedValue': 0, 'unexercisedValue': 0}]
+historical data over 5 days: [{"Open":62.0,"High":62.2000007629,"Low":60.75,"Close":61.3499984741,"Volume":80642,"Dividends":0.0,"Stock Splits":0.0},{"Open":61.2000007629,"High":61.5499992371,"Low":60.8499984741,"Close":61.25,"Volume":44995,"Dividends":0.0,"Stock Splits":0.0},{"Open":61.25,"High":61.3499984741,"Low":60.9000015259,"Close":60.9000015259,"Volume":48898,"Dividends":0.0,"Stock Splits":0.0},{"Open":61.5,"High":61.9000015259,"Low":60.75,"Close":61.0,"Volume":68892,"Dividends":0.0,"Stock Splits":0.0},{"Open":60.7000007629,"High":61.4500007629,"Low":60.6500015259,"Close":61.2000007629,"Volume":38107,"Dividends":0.0,"Stock Splits":0.0}]

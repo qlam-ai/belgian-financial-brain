@@ -1,0 +1,12 @@
+Yahoo ID of Stock: AGS.BR
+last traded price: 48.70000076293945
+currency: EUR
+stock value change since market open: 0.24000167846679688
+stock value change since market last close: 0.40000076293945597
+stock exchange on which stock is traded: BRU
+volume: 252151
+turnover: 12279753.892375946
+market Cap: 8918723584
+number of shares outstanding: 183136000
+company information in json format: [{'maxAge': 1, 'name': 'Mr. Bart Karel August De Smet', 'age': 66, 'title': 'Executive Chairman of the Board', 'yearBorn': 1957, 'fiscalYear': 2023, 'totalPay': 175000, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Hans Jozef Josephina de Cuyper', 'age': 54, 'title': 'CEO & Executive Director', 'yearBorn': 1969, 'fiscalYear': 2023, 'totalPay': 1632599, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wim  Guilliams', 'age': 50, 'title': 'CFO & Director', 'yearBorn': 1973, 'fiscalYear': 2023, 'totalPay': 824672, 'exercisedValue': 0, 'unexercisedValue': 0}]
+historical data over 5 days: [{"Open":48.7799987793,"High":48.8600006104,"Low":48.2799987793,"Close":48.4799995422,"Volume":280125,"Dividends":0.0,"Stock Splits":0.0},{"Open":48.4199981689,"High":48.7200012207,"Low":48.0400009155,"Close":48.0800018311,"Volume":193691,"Dividends":0.0,"Stock Splits":0.0},{"Open":48.0999984741,"High":48.5999984741,"Low":48.0999984741,"Close":48.4399986267,"Volume":239549,"Dividends":0.0,"Stock Splits":0.0},{"Open":48.2799987793,"High":48.7200012207,"Low":48.2400016785,"Close":48.2999992371,"Volume":273982,"Dividends":0.0,"Stock Splits":0.0},{"Open":48.4599990845,"High":48.8400001526,"Low":48.2999992371,"Close":48.7000007629,"Volume":252151,"Dividends":0.0,"Stock Splits":0.0}]

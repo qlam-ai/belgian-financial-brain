@@ -1,0 +1,12 @@
+Yahoo ID of Stock: UMI.BR
+last traded price: 11.300000190734863
+currency: EUR
+stock value change since market open: 0.05000019073486328
+stock value change since market last close: 0.19000019073486385
+stock exchange on which stock is traded: BRU
+volume: 286104
+turnover: 3232975.2545700073
+market Cap: 2717435136
+number of shares outstanding: 240480992
+company information in json format: [{'maxAge': 1, 'name': 'Mr. Bart  Sap', 'age': 45, 'title': 'CEO & Chairman of Management Board', 'yearBorn': 1978, 'fiscalYear': 2022, 'totalPay': 1051108, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Wannes  Peferoen', 'age': 42, 'title': 'Chief Financial Officer', 'yearBorn': 1981, 'fiscalYear': 2022, 'totalPay': 667644, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Geraldine  Nolens', 'age': 52, 'title': 'Executive VP of ESG, General Counsel, Board Secretary & Member of Management Board', 'yearBorn': 1971, 'fiscalYear': 2022, 'totalPay': 1055017, 'exercisedValue': 0, 'unexercisedValue': 0}]
+historical data over 5 days: [{"Open":10.6700000763,"High":10.8999996185,"Low":10.6300001144,"Close":10.8999996185,"Volume":464188,"Dividends":0.0,"Stock Splits":0.0},{"Open":10.8400001526,"High":10.970000267,"Low":10.7399997711,"Close":10.8000001907,"Volume":307407,"Dividends":0.0,"Stock Splits":0.0},{"Open":10.6899995804,"High":11.1400003433,"Low":10.6899995804,"Close":10.8800001144,"Volume":500034,"Dividends":0.0,"Stock Splits":0.0},{"Open":10.8800001144,"High":11.2600002289,"Low":10.8299999237,"Close":11.1099996567,"Volume":368038,"Dividends":0.0,"Stock Splits":0.0},{"Open":11.25,"High":11.3000001907,"Low":11.0600004196,"Close":11.3000001907,"Volume":286104,"Dividends":0.0,"Stock Splits":0.0}]

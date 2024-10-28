@@ -1,0 +1,12 @@
+Yahoo ID of Stock: ABI.BR
+last traded price: 59.7400016784668
+currency: EUR
+stock value change since market open: 0.15999984741210938
+stock value change since market last close: 0.20000167846679773
+stock exchange on which stock is traded: BRU
+volume: 974090
+turnover: 58192138.23497772
+market Cap: 118241591296
+number of shares outstanding: 1749939968
+company information in json format: [{'maxAge': 1, 'name': 'Mr. Michel Dimitrios  Doukeris', 'age': 50, 'title': 'Chief Executive Officer', 'yearBorn': 1973, 'fiscalYear': 2018, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Fernando Mommensohn Tennenbaum', 'age': 46, 'title': 'Chief Financial Officer', 'yearBorn': 1977, 'fiscalYear': 2018, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Dr. David Henrique Galatro  de Almeida', 'age': 47, 'title': 'Chief Strategy & Technology Officer', 'yearBorn': 1976, 'fiscalYear': 2018, 'exercisedValue': 0, 'unexercisedValue': 0}]
+historical data over 5 days: [{"Open":60.0,"High":60.1399993896,"Low":59.2999992371,"Close":59.7200012207,"Volume":1108414,"Dividends":0.0,"Stock Splits":0.0},{"Open":59.9599990845,"High":60.2999992371,"Low":59.7200012207,"Close":59.7599983215,"Volume":967068,"Dividends":0.0,"Stock Splits":0.0},{"Open":60.0,"High":60.4799995422,"Low":59.7599983215,"Close":59.8600006104,"Volume":891391,"Dividends":0.0,"Stock Splits":0.0},{"Open":59.6199989319,"High":59.7400016785,"Low":59.2000007629,"Close":59.5400009155,"Volume":967225,"Dividends":0.0,"Stock Splits":0.0},{"Open":59.5800018311,"High":59.9599990845,"Low":59.5,"Close":59.7400016785,"Volume":974090,"Dividends":0.0,"Stock Splits":0.0}]

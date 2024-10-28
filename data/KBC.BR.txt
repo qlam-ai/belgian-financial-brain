@@ -1,0 +1,12 @@
+Yahoo ID of Stock: KBC.BR
+last traded price: 68.19999694824219
+currency: EUR
+stock value change since market open: 0.5999984741210938
+stock value change since market last close: 0.6199969482421892
+stock exchange on which stock is traded: BRU
+volume: 356395
+turnover: 24306137.912368774
+market Cap: 27117342720
+number of shares outstanding: 396324992
+company information in json format: [{'maxAge': 1, 'name': 'Mr. Johan  Thijs', 'age': 58, 'title': 'Group CEO, MD & Executive Director', 'yearBorn': 1965, 'fiscalYear': 2023, 'totalPay': 3620237, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Ms. Christine  Van Rijsseghem', 'age': 61, 'title': 'Chief Risk Officer & Executive Director', 'yearBorn': 1962, 'fiscalYear': 2023, 'totalPay': 1779829, 'exercisedValue': 0, 'unexercisedValue': 0}, {'maxAge': 1, 'name': 'Mr. Erik Marcel Hugo Luts', 'age': 63, 'title': 'Chief Innovation Officer', 'yearBorn': 1960, 'fiscalYear': 2023, 'totalPay': 1793078, 'exercisedValue': 0, 'unexercisedValue': 0}]
+historical data over 5 days: [{"Open":67.8600006104,"High":68.0199966431,"Low":66.9199981689,"Close":67.8000030518,"Volume":345809,"Dividends":0.0,"Stock Splits":0.0},{"Open":67.8199996948,"High":68.0400009155,"Low":67.1399993896,"Close":67.8000030518,"Volume":441162,"Dividends":0.0,"Stock Splits":0.0},{"Open":67.6999969482,"High":67.8000030518,"Low":66.7600021362,"Close":66.8399963379,"Volume":458838,"Dividends":0.0,"Stock Splits":0.0},{"Open":66.7600021362,"High":68.0800018311,"Low":66.7399978638,"Close":67.5800018311,"Volume":272295,"Dividends":0.0,"Stock Splits":0.0},{"Open":67.5999984741,"High":68.4800033569,"Low":67.5400009155,"Close":68.1999969482,"Volume":356395,"Dividends":0.0,"Stock Splits":0.0}]
