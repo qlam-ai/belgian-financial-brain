@@ -1,60 +1,122 @@
 # belgian-financial-brain
 LLM fuelled by data about the Belgian Stock Market
+Here’s a polished and professional README for your GitHub repository:
 
+---
 
-How to automate the data retrieval process (on Mac OS)
-Yes, you can schedule a Python script to run daily at 8 am on your MacBook Pro using **cron**, a Unix-based scheduler available on macOS.
+# Belgian Financial Brain
 
-Here's a step-by-step guide:
+[![Stars](https://img.shields.io/github/stars/qlam-ai/belgian-financial-brain?style=social)](https://github.com/qlam-ai/belgian-financial-brain/stargazers)  
+[![Issues](https://img.shields.io/github/issues/qlam-ai/belgian-financial-brain)](https://github.com/qlam-ai/belgian-financial-brain/issues)  
+[![License](https://img.shields.io/github/license/qlam-ai/belgian-financial-brain)](LICENSE)
 
-### 1. Find the Path to Your Python Script
-Make sure you know the absolute path to your Python script. For example, if it's in your home directory, it might look like:
+**Belgian Financial Brain** combines the power of live stock market data with the intelligence of locally hosted LLMs. This project fetches real-time financial data for the top 20 Belgian stocks and ETFs and integrates it seamlessly with the `llama-3.2-3B-Instruct-4bit` model (optimized for MLX usage). This integration empowers your local LLMs with access to live and precise financial information, enabling advanced decision-making and conversational capabilities.
+
+---
+
+## 🚀 Features
+
+- **Real-Time Stock Data Fetching**:  
+  Automatically retrieves and updates data for the top 20 Belgian stocks and ETFs.
+  
+- **LLM Integration**:  
+  Uses `llama-3.2-3B-Instruct-4bit` to process, analyze, and answer questions about financial data in natural language.
+
+- **Dynamic and Local**:  
+  Brings the power of live financial updates to locally hosted AI models, ensuring privacy and independence from cloud-based APIs.
+
+- **Custom Queries**:  
+  Ask specific questions about stock trends, performance, or financial indicators and get contextually relevant answers.
+
+---
+
+## 🛠️ Installation & Setup
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/qlam-ai/belgian-financial-brain.git
+   cd belgian-financial-brain
+   ```
+
+2. **Install Dependencies**:  
+   Ensure you have Python 3.8+ installed, then install the required libraries:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Set Up the LLM**:  
+   Download and prepare the `llama-3.2-3B-Instruct-4bit` model for MLX usage. Instructions for setting up MLX can be found [here](https://github.com/nomic-ai/mlx).
+
+4. **Run the Application**:
+   Fetch live stock data and enable LLM-powered queries:
+   ```bash
+   python main.py
+   ```
+
+---
+
+## 🧠 How It Works
+
+1. **Fetch Financial Data**:  
+   The script collects up-to-date information about Belgian stocks and ETFs using APIs and/or scraping methods.
+
+2. **Feed Data into the LLM**:  
+   The live data is formatted and fed into `llama-3.2-3B-Instruct-4bit`.
+
+3. **Ask Financial Questions**:  
+   Interact with the LLM to ask targeted financial queries. Examples:
+   - "What is the performance trend for company X over the last week?"
+   - "Which Belgian ETFs are showing positive growth today?"
+
+---
+
+## 🗂️ Repository Structure
+
 ```plaintext
-/Users/yourusername/path/to/your_script.py
+belgian-financial-brain/
+├── data/              # Scripts and modules for fetching financial data
+├── models/            # Scripts for LLM integration and query handling
+├── tests/             # Unit tests for data fetching and LLM integration
+├── requirements.txt   # Required Python libraries
+├── main.py            # Main application script
+├── README.md          # Project documentation
+└── LICENSE            # License file
 ```
 
-### 2. Find the Path to Your Python Interpreter
-To make sure you use the correct Python version, locate the path to the Python interpreter you want to use. You can find it by running this command in Terminal:
-```bash
-which python3
-```
-This command will give you a path like `/usr/local/bin/python3` or similar. Use this exact path in your cron job.
+---
 
-### 3. Edit Your Cron Jobs
-To create or edit cron jobs, open the crontab (cron table) file in your terminal:
-```bash
-crontab -e
-```
+## 🔧 Customization
 
-### 4. Add a New Cron Job
-Once inside the crontab editor, add a new line to schedule your Python script. To run it every day at 8 am, use this line:
-```plaintext
-0 8 * * * /usr/local/bin/python3 /Users/yourusername/path/to/your_script.py
-```
+- **Add More Stocks/ETFs**:  
+  Update the stock list in `data/fetch_stocks.py` to include additional Belgian financial instruments.
 
-**Explanation of the cron syntax:**
-- `0 8 * * *` - This specifies the time to run the job:
-  - `0` (minute) means "at minute 0"
-  - `8` (hour) means "at 8 am"
-  - `* * *` (day, month, and weekday) means "every day, every month, regardless of weekday."
-- `/usr/local/bin/python3` is the path to the Python interpreter.
-- `/Users/yourusername/path/to/your_script.py` is the path to your script.
+- **Optimize Model Performance**:  
+  Experiment with `llama-3.2-3B-Instruct-4bit` configuration or substitute it with other LLMs compatible with MLX for different requirements.
 
-### 5. Save and Exit
-After adding the line, save and exit. In the `nano` editor (often used for `crontab -e`), press `Ctrl + X`, then `Y` to confirm, and `Enter` to save.
+---
 
-### 6. Verify the Cron Job
-To verify that the job was saved correctly, you can list all cron jobs with:
-```bash
-crontab -l
-```
+## 📈 Future Plans
 
-### 7. Check the Output (Optional)
-By default, cron jobs do not show output. If you want to log the output or errors to a file for debugging, modify the cron job like this:
-```plaintext
-0 8 * * * /usr/local/bin/python3 /Users/yourusername/path/to/your_script.py >> /Users/yourusername/path/to/logfile.log 2>&1
-```
+- Add support for additional European markets.  
+- Integrate more advanced financial metrics and visualizations.  
+- Build a web-based or CLI interface for easier usage.  
 
-This will log any output or errors to `logfile.log` for review.
+---
 
-After following these steps, your Python script will automatically run every day at 8 am!
+## 📝 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+## 💬 Questions or Suggestions?
+
+Feel free to open an [issue](https://github.com/qlam-ai/belgian-financial-brain/issues) or submit a pull request. Contributions are welcome!
+
+---
+
+### ⭐ If you find this project useful, don’t forget to give it a star!  
+
+--- 
+
+Let me know if you'd like additional sections, such as installation specifics for the MLX model or deeper technical details!
