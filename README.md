@@ -43,14 +43,11 @@ Here’s a polished and professional README for your GitHub repository:
    ```bash
    pip install -r requirements.txt
    ```
-
-3. **Set Up the LLM**:  
-   Download and prepare the `llama-3.2-3B-Instruct-4bit` model for MLX usage. Instructions for setting up MLX can be found [here](https://github.com/nomic-ai/mlx).
-
-4. **Run the Application**:
+   
+3. **Run the Application**:
    Fetch live stock data and enable LLM-powered queries:
    ```bash
-   python main.py
+   python main_chat.py
    ```
 
 ---
