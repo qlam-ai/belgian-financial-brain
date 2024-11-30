@@ -1,6 +1,5 @@
 # belgian-financial-brain
 LLM fuelled by data about the Belgian Stock Market
-Here’s a polished and professional README for your GitHub repository:
 
 ---
 
@@ -39,7 +38,7 @@ Here’s a polished and professional README for your GitHub repository:
    ```
 
 2. **Install Dependencies**:  
-   Ensure you have Python 3.8+ installed, then install the required libraries:
+   Ensure you have Python 3.10+ installed, then install the required libraries:
    ```bash
    pip install -r requirements.txt
    ```
@@ -58,7 +57,7 @@ Here’s a polished and professional README for your GitHub repository:
    The script collects up-to-date information about Belgian stocks and ETFs using APIs and/or scraping methods.
 
 2. **Feed Data into the LLM**:  
-   The live data is formatted and fed into `llama-3.2-3B-Instruct-4bit`.
+   The live data is formatted and fed into `llama-3.2-3B-Instruct-4bit` using function calling.
 
 3. **Ask Financial Questions**:  
    Interact with the LLM to ask targeted financial queries. Examples:
@@ -71,13 +70,12 @@ Here’s a polished and professional README for your GitHub repository:
 
 ```plaintext
 belgian-financial-brain/
-├── data/              # Scripts and modules for fetching financial data
-├── models/            # Scripts for LLM integration and query handling
-├── tests/             # Unit tests for data fetching and LLM integration
+├── data/              # Financial data stored in .txt format
+├── notebooks/            # All notebooks and tutorials
+├── extraction_functinos.py/             # Extraction functions to download on a daily basis the financial data
 ├── requirements.txt   # Required Python libraries
-├── main.py            # Main application script
+├── main_chat.py            # Main application script
 ├── README.md          # Project documentation
-└── LICENSE            # License file
 ```
 
 ---
@@ -98,11 +96,6 @@ belgian-financial-brain/
 - Integrate more advanced financial metrics and visualizations.  
 - Build a web-based or CLI interface for easier usage.  
 
----
-
-## 📝 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
